@@ -1,3 +1,6 @@
-Strata by HTML5 UP
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## Portfolio Website Hosted on GitHub Pages
+
+Tools: HTML, CSS, Javascript
+
+Google Analytics to track customer journey and measure website traffic.
 
